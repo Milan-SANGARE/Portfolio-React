@@ -1,0 +1,31 @@
+[
+    {
+      "title": "Protocol Bridge",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["GoLANG", "Redis"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com",
+      "icon" : "projects/github.svg"
+    },
+    {
+      "title": "Virtualia V4",
+      "imageSrc": "projects/project.png",
+      "description": "Upgrade from V3 desktop version to V4 web version",
+      "skills": ["C#", "Java", "MySQL", "ASP.NET MVC", "Oracle", "VB"],
+      "demo": "https://www.example.com",
+      "source": "HR-Path Software",
+      "icon" : "projects/github.svg"
+    },
+    {
+      "title": "Project Automation",
+      "imageSrc": "projects/project.png",
+      "description": "Automating a manual task on a production line",
+      "skills": ["React", "Express", "Node"],
+      "demo": "",
+      "source": "https://github.com/DraKkarW2/SYST-MES-AUTOMATIS-",
+      "icon" : "projects/github.svg"
+    }
+
+]
+  

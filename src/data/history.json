@@ -1,0 +1,30 @@
+[
+    {
+      "role": "Software Engineer Intern",
+      "organisation": "DPTechnics bv",
+      "startDate": "Oct, 2023",
+      "endDate": "Feb, 2024",
+      "experiences": ["Worked on a bridge between two protocols", "Transforming the initial prototype into a fully functional final version"],
+      "imageSrc": "history/DPT.png"
+    },
+    {
+      "role": "Product Devloper",
+      "organisation": "HR-Path",
+      "startDate": "Jun, 2023",
+      "endDate": "Sep, 2023",
+      "experiences": ["Worked on Virtualia V4", "Developed pages functionality using Java, compatible with various databases."],
+      "imageSrc": "history/HR.png"
+    },
+    {
+      "role": "Software Developer Intern",
+      "organisation": "HR-Path",
+      "startDate": "Jan, 2023",
+      "endDate": "Apr, 2023",
+      "experiences": [
+        "Worked on Virtualia V4",
+        "Solved client tickets and devlopped new pages using C#"
+      ],
+      "imageSrc": "history/HR.png"
+    }
+  ]
+  
