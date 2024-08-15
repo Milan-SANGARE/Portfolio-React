@@ -1,0 +1,19 @@
+.container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    
+    border-radius: 10px;
+    background-color: black;
+  }
+
+.title{
+    color: white;
+}
+
+.mail{
+    display: flex;
+    position: relative;
+    color: white;
+   
+}

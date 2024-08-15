@@ -22,6 +22,14 @@
       "skills": ["React", "Express", "Node"],
       "demo": "",
       "source": "https://github.com/DraKkarW2/SYST-MES-AUTOMATIS-"
+    },
+    {
+      "title": "Power 4",
+      "imageSrc": "projects/automatique.jpg",
+      "description": "Automating a manual task on a production line",
+      "skills": ["Java"],
+      "demo": "",
+      "source": ""
     }
 
 ]
