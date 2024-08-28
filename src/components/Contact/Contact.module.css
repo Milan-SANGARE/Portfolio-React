@@ -6,6 +6,14 @@
     border-radius: 10px;
     background-color: black;
   }
+  .content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+.contactText{
+    color: white;
+}
 
 .title{
     color: white;

@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React from "react";
 import Style from "./about.module.css"
 import { getImageUrl } from "../../utils";
@@ -13,7 +14,7 @@ export const About = () => {
                         <img src={getImageUrl("about/cursorIcon.png")} alt="cursor icon" />
                         <div>
                             <h3>Front-End </h3>
-                            <p>I'm a frontend developer with experience in building responsive and optimized sites</p>
+                            <p>I am a frontend developer with experience in building responsive and optimized sites</p>
                         </div>
                     </li>
                     <li className={Style.aboutItem}>
