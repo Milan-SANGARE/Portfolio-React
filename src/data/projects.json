@@ -1,10 +1,51 @@
 [
     {
-      "title": "Protocol Bridge",
+      "title": "Reconfiguration of a WAN Network: Harmonisation of Infrastructures and Optimisation of Services",
+      "imageSrc": "projects/A4_Info_Réseaux_780x530.jpg",
+      "description": "The project aims to harmonise a WAN network by interconnecting 2 to 3 pilot sites in order to centralise management, improve security and reduce costs.",
+      "skills": ["GoLANG", "Redis"],
+      "demo": "",
+      "source": ""
+    },
+    
+    {
+      "title": "Project Automation",
+      "imageSrc": "projects/automatique.jpg",
+      "description": "Automating a manual task on a production line",
+      "skills": ["G-code", "Math"],
+      "demo": "",
+      "source": "https://github.com/DraKkarW2/SYST-MES-AUTOMATIS-"
+    },
+    {
+      "title": "Projet Intelligence Artificielle",
+      "imageSrc": "projects/ia.png",
+      "description": "Data cleaning for quality assurance and exploratory analysis to identify trends. Various machine learning algorithms were evaluated using cross-validation, measuring performance to identify key factors.",
+      "skills": ["C#", "Java","JS", "MySQL", ".NET","MVC", "Oracle", "VB"],
+      "demo": "",
+      "source": ""
+    },
+    {
+      "title": "Walter Protocol Bridge",
       "imageSrc": "projects/walter.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["GoLANG", "Redis"],
       "demo": "https://www.dptechnics.com",
+      "source": ""
+    },
+    {
+      "title": "Optimisation of Delivery Routes",
+      "imageSrc": "projects/A3_Traitementdonnees_780x530.jpg",
+      "description": "Response to ADEME's Call for Intelligent Multimodal Mobility. We made a formal modelling of the problem, the design and implementation of a solution algorithm (Python), and an experimental study on the performance of the solution. ",
+      "skills": ["modélisation de problèmes","catégories de problèmes","complexité des problèmes","résolution des problèmes", "python"],
+      "demo": "https://www.dptechnics.com",
+      "source": ""
+    },
+    {
+      "title": "Cloud Healthcare Unit Project",
+      "imageSrc": "projects/A3-Info_Stockage_780x530.jpg",
+      "description": "Setting up a Data Warehouse for the Healthcare Sector. The goal was to design a scalable infrastructure capable of extracting, storing and analysing this data while ensuring high security and optimum performance.",
+      "skills": ["Architecture Big Data", "Intégration des données","Modèle physique et optimisation", "Exploitation et analyse de données"],
+      "demo": "https://www.virtualia.fr",
       "source": ""
     },
     {
@@ -16,12 +57,21 @@
       "source": ""
     },
     {
-      "title": "Project Automation",
-      "imageSrc": "projects/automatique.jpg",
-      "description": "Automating a manual task on a production line",
-      "skills": ["React", "Express", "Node"],
+      "title": "Easy Save",
+      "imageSrc": "projects/A3-Info_ProgSyst_780x530.jpg",
+      "description": "Back-up software",
+      "skills": ["UML","GIT Azure DevOps","Visual Studio",".NET.Core"],
       "demo": "",
-      "source": "https://github.com/DraKkarW2/SYST-MES-AUTOMATIS-"
+      "source": ""
+    },
+    {
+      "title": "Restructuring an Information System for ISO 9001 Certification",
+      "imageSrc": "projects/A3-Info_AdminSI_780x530.jpg",
+      "description": "The project consist of detailed analysis of the current infrastructure, a proposal for a new architecture with a mock-up and automation scripts, and the production of all the documentation needed for future administration.",
+      "skills": ["The different components of the I.S.","Management strategies","Security","Containerisation techniques",
+      "Useful concepts in administration","Automation (scripts)","Supervision"],
+      "demo": "",
+      "source": ""
     },
     {
       "title": "Power 4",
@@ -30,7 +80,7 @@
       "skills": ["Java"],
       "demo": "",
       "source": ""
-    }
-
+    }    
+    
 ]
   

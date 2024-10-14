@@ -2,6 +2,7 @@
 import React from "react";
 import Style from "./about.module.css"
 import { getImageUrl } from "../../utils";
+import { IoLogoLinkedin } from "react-icons/io5";
 
 export const About = () => {
     return (
@@ -25,11 +26,13 @@ export const About = () => {
                         </div>
                     </li>
                     <li className={Style.aboutItem}>
-                        <img src={getImageUrl("about/uiIcon.png")} alt="ui icon" />
+                        <a href="https://www.linkedin.com/in/milan-sangare/" target="_blank" rel="noopener noreferrer" style={{ display: 'flex', alignItems: 'center', textDecoration: 'none', color: 'inherit' }}>
+                        <IoLogoLinkedin style={{ fontSize: '70px',color: "DodgerBlue", marginRight: '10px' }} />
                         <div>
-                            <h3>UI Designer</h3>
-                            <p>I have designed multiple landing pages and have created design systems as well</p>
+                            <h3>My magnificent Linked in profile</h3>
+                            <p>Here you will find other information about myself. If you wish to know more aboute my experences outside the IT field.</p>
                         </div>
+                        </a>
                     </li>
                 </ul>
             </div>
