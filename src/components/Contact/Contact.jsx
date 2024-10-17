@@ -10,7 +10,7 @@ export const Contact = () => {
         <h2 className={style.title}>Contact</h2>
         <div className={style.content}>
           <p className={style.contactText}>
-            You can contact me anytome here 😀.
+            You can contact me anytime here 😀.
           </p>
 
         </div>
