@@ -1,8 +1,8 @@
 [
     {
       "title": "Image captioning",
-      "imageSrc": "projects/A4_Info_Réseaux_780x530.jpg",
-      "description": "Built a model which can caption image",
+      "imageSrc": "projects/data_science.jpg",
+      "description": "Creation of a workflow for classifying, denoising and then captioning an image",
       "skills": ["Python", "Tensorflow"],
       "demo": "",
       "source": ""
@@ -43,15 +43,15 @@
     {
       "title": "Optimisation of Delivery Routes",
       "imageSrc": "projects/A3_Traitementdonnees_780x530.jpg",
-      "description": "Response to ADEME's Call for Intelligent Multimodal Mobility. We made a formal modelling of the problem, the design and implementation of a solution algorithm (Python), and an experimental study on the performance of the solution. ",
-      "skills": ["modélisation","catégories","complexité","résolution", "python","Jupyter"],
+      "description": "The design and implementation of a solution algorithm (Python), and an experimental study on the performance of the solution. ",
+      "skills": ["python","Jupyter"],
       "demo": "",
       "source": ""
     },
     {
       "title": "Cloud Healthcare Unit Project",
       "imageSrc": "projects/A3-Info_Stockage_780x530.jpg",
-      "description": "Setting up a Data Warehouse for the Healthcare Sector. The goal was to design a scalable infrastructure capable of extracting, storing and analysing this data while ensuring high security and optimum performance.",
+      "description": "Setting up a Data Warehouse. The goal was to design a scalable infrastructure capable of extracting, storing and analysing this data while ensuring high security and optimum performance.",
       "skills": ["Hadoop", "Hive","Power BI"],
       "demo": "",
       "source": ""
@@ -70,24 +70,9 @@
       "description": "Back-up software",
       "skills": ["UML","GIT Azure DevOps","Visual Studio",".NET.Core"],
       "demo": "",
-      "source": ""
-    },
-    {
-      "title": "Restructuring an Information System for ISO 9001 Certification",
-      "imageSrc": "projects/A3-Info_AdminSI_780x530.jpg",
-      "description": "The project consist of detailed analysis of the current infrastructure, a proposal for a new architecture with a mock-up and automation scripts, and the production of all the documentation needed for future administration.",
-      "skills": ["Management strategies","Security","Containerisation","Automation (scripts)","Supervision"],
-      "demo": "",
-      "source": ""
-    },
-    {
-      "title": "Power 4",
-      "imageSrc": "projects/automatique.jpg",
-      "description": "simple console game.",
-      "skills": ["Java"],
-      "demo": "",
-      "source": ""
-    }    
+      "source": "https://github.com/Milan-SANGARE/EasySave"
+    }
+       
     
 ]
   

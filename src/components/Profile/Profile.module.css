@@ -41,7 +41,7 @@
 
 .contactBtn {
   text-decoration: none;
-  background-color: var(--color-primary);
+  background-color: var(--color-bg);
   color: var(--color-text);
   border-radius: 100px;
   font-size: 30px;
@@ -52,6 +52,7 @@
 
 .heroImg {
   width: 50%;
+  border-radius: 25%;
   z-index: 1;
 
   animation-name: floating;
@@ -81,7 +82,7 @@
   top: -128px;
   left: -10vw;
   border-radius: 764px;
-  background: rgba(25, 55, 109, 0.7);
+  background: var(--color-secondary);
   filter: blur(100px);
   z-index: 0;
 }
@@ -95,7 +96,7 @@
   top: 246px;
   right: -25vw;
   border-radius: 764px;
-  background: rgba(25, 55, 109, 0.7);
+  background: var(--color-secondary);
   filter: blur(100px);
   z-index: 0;
 }

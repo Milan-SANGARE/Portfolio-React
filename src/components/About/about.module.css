@@ -2,7 +2,7 @@
 
 .container {
     position: relative;
-    background-color: rgba(14, 37, 72, 0.566);
+    background-color: var(--color-dark);
     border-radius: 15px;
     padding: 73px;
     margin-top: 129px;
@@ -24,6 +24,8 @@
 
   .aboutItem {
     display: flex;
+    flex: 1 1 200px; /* Set a minimum width, each item will grow to match the others */
+    max-width: 900px;
     flex-direction: row;
     align-items: center;
     border-radius: 20px;
@@ -57,6 +59,20 @@
     font-weight: 700;
     letter-spacing: 1.75px;
     text-transform: uppercase;
+  }
+
+  .page {
+    flex-direction: 'row';
+    background-color: '#E4E4E4';
+  }
+  .section {
+    margin: 10;
+    padding: 10;
+    flex-grow: 1;
+  }
+  .aboutImage {
+    max-width: 50%;
+    height: auto;
   }
 
 @media screen and (max-width: 830px)  {
