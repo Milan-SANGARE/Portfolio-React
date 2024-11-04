@@ -10,8 +10,9 @@ export const Profile = () => {
             <div className={styles.content}>
                 <h1 className={styles.title}>Milan SANGARE</h1>
                 <p className={styles.description}>
-                    As an computer engineering student at CESI I am looking for work for 3 months, from the beginning of July to the end of
-                    September. This is my final year and i would like to engage in automation realted project.
+                    As a student in my final year of a computer engineering course, I’m looking for a company for my
+                    Projet de Fin d’Études (PFE) which is to be carried out as part of a professional assignment. 
+                    
                 </p>
                 <a href="#contact" className={styles.contactBtn}>
                     Contact Me
