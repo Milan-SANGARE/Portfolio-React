@@ -1,17 +1,17 @@
 [
     {
-      "title": "Image captioning",
+      "title": "Deep Learning for Image Captioning",
       "imageSrc": "projects/data_science.jpg",
-      "description": "Creation of a workflow for classifying, denoising and then captioning an image",
+      "description": "Design of a workflow combining supervised models (CNN for feature extraction) and unsupervised learning techniques (CAE auto-encoders, VAE) to generate compact and relevant representations. Implementation of a subtitling system based on a Par-Inject architecture with RNN and transfer learning.",
       "skills": ["Python", "Tensorflow"],
       "demo": "",
       "source": ""
     },
     {
-      "title": "Reconfiguration of a WAN Network: Harmonisation of Infrastructures and Optimisation of Services",
+      "title": "Redesigning WAN Network Architecture",
       "imageSrc": "projects/A4_Info_Réseaux_780x530.jpg",
-      "description": "The project aims to harmonise a WAN network by interconnecting 2 to 3 pilot sites in order to centralise management, improve security and reduce costs.",
-      "skills": ["GN3", "Paket Tracer"],
+      "description": "Designed a Proof of Concept (PoC) for multi-site interconnection using SD-WAN and MPLS. Deployed critical services and implemented advanced security protocols.",
+      "skills": ["GN3", "Paket Tracer", "MPLS","SD-WAN"],
       "demo": "",
       "source": ""
     },
@@ -19,40 +19,40 @@
     {
       "title": "Project Automation",
       "imageSrc": "projects/automatique.jpg",
-      "description": "Automating a manual task on a production line",
-      "skills": ["G-code", "Math"],
+      "description": "Automating a manual task on a production line. Enhanced an industrial gluing prototype by applying mathematical modeling and risk analysis (FMEA). Achieved improved precision and reliability in the production process.",
+      "skills": ["G-code", "Math", "FMEA "],
       "demo": "",
       "source": "https://github.com/DraKkarW2/SYST-MES-AUTOMATIS-"
     },
     {
       "title": "Projet Intelligence Artificielle",
       "imageSrc": "projects/ia.png",
-      "description": "Data cleaning for quality assurance and exploratory analysis to identify trends. Various machine learning algorithms were evaluated using cross-validation, measuring performance to identify key factors.",
-      "skills": ["Python","Sckit-Learn","XG-Boost", "Jupyter"],
+      "description": "Data cleaning for quality assurance and exploratory analysis to identify trends. Predicted motivational factors using supervised models (Random Forest, XGBoost) and segmented employees into behavioral groups with K-means clustering. Results evaluated with metrics like AUC-ROC and F1-score.",
+      "skills": ["Python","Sckit-Learn","XG-Boost", "Seaborn", "Jupyter"],
       "demo": "",
-      "source": ""
+      "source": "https://github.com/YoussefRais12/HumanForYou"
     },
     {
       "title": "Walter Protocol Bridge",
       "imageSrc": "projects/walter.png",
       "description": "Built functional bridges between protocols based on prototypes, and RFID documentation.",
       "skills": ["GoLANG", "Redis"],
-      "demo": "https://www.dptechnics.com",
+      "demo": "https://www.dptechnics.com/en/products/walter.html",
       "source": ""
     },
     {
       "title": "Optimisation of Delivery Routes",
       "imageSrc": "projects/A3_Traitementdonnees_780x530.jpg",
       "description": "The design and implementation of a solution algorithm (Python), and an experimental study on the performance of the solution. ",
-      "skills": ["python","Jupyter"],
+      "skills": ["Python","Jupyter"],
       "demo": "",
       "source": ""
     },
     {
-      "title": "Cloud Healthcare Unit Project",
+      "title": "Healthcare Data Warehouse",
       "imageSrc": "projects/A3-Info_Stockage_780x530.jpg",
-      "description": "Setting up a Data Warehouse. The goal was to design a scalable infrastructure capable of extracting, storing and analysing this data while ensuring high security and optimum performance.",
-      "skills": ["Hadoop", "Hive","Power BI"],
+      "description": "Designed a high-performance Data Warehouse for medical data analysis. Deployed an ETL pipeline and visualized key insights using Power BI to optimize decision-making processes.",
+      "skills": ["Hadoop", "Hive", "PostgreSQL","Power BI"],
       "demo": "",
       "source": ""
     },
@@ -67,8 +67,8 @@
     {
       "title": "Easy Save",
       "imageSrc": "projects/A3-Info_ProgSyst_780x530.jpg",
-      "description": "Back-up software",
-      "skills": ["UML","GIT Azure DevOps","Visual Studio",".NET.Core"],
+      "description": "Designed an application with a modern MVVM architecture using .NET Core. Collaborated in Agile sprints to ensure timely delivery.",
+      "skills": ["UML","GIT Azure DevOps","Visual Studio",".NET.Core", "MVVM"],
       "demo": "",
       "source": "https://github.com/Milan-SANGARE/EasySave"
     }

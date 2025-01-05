@@ -4,15 +4,19 @@
       "organisation": "DPTechnics bv",
       "startDate": "Oct, 2023",
       "endDate": "Feb, 2024",
-      "experiences": ["Worked on a bridge between multiples protocols", "Transforming the initial prototype into a fully functional final version"],
-      "imageSrc": "history/DPT.png"
+      "experiences": ["Designed and transformed a prototype API into a fully functional module, enhancing communication efficiency across systems.",
+                      "Implemented multi-protocol algorithms to process and relay ~10 million messages daily.",
+                      "Developed a scalable and high-performance infrastructure using Golang, Redis, and CockroachDB."],
+      "imageSrc": "history/pd.png"
     },
     {
-      "role": "Product Devloper",
+      "role": "JAVA Product DEVELOPER",
       "organisation": "HR-Path",
       "startDate": "Jun, 2023",
       "endDate": "Sep, 2023",
-      "experiences": ["Worked on Virtualia V4", "Developed pages functionality using Java, compatible with various databases."],
+      "experiences": ["Designed and developed robust data import/export functionalities using JavaServlets, ensuring secure and rapid processes.",
+                      "Adapted and optimised code for compatibility with complex databases (MySQL, SQL Server, Oracle).",
+                      "Enhanced HR system workflows by improving flexibility and compatibility across systems with Java and Eclipse."],
       "imageSrc": "history/HR.png"
     },
     {
@@ -20,10 +24,10 @@
       "organisation": "HR-Path",
       "startDate": "Jan, 2023",
       "endDate": "Apr, 2023",
-      "experiences": [
-        "Worked on Virtualia V4",
-        "Solved client tickets and devlopped new pages using C#"
-      ],
+      "experiences": ["Modernized application architecture, through migration from VB Web Forms to a C# MVC application.",
+                      "Increased user interface responsiveness by 80%, boosting user satisfaction.",
+                      "Resolved ~30 critical production issues, ensuring optimal system availability.",
+                      "Utilized Visual Studio, .NET Core, and C# to implement scalable and RESTful solutions."],
       "imageSrc": "history/HR.png"
     }
   ]

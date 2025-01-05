@@ -22,9 +22,9 @@ export const Contact = () => {
         <div className={style.content}>
           <ul className={style.contactItems}>
             <li className={style.contactItem}>
-            <a href="mailto:milan.sangare.info@gmail.com" target="_blank" rel="noopener noreferrer" style={{ display: 'flex', alignItems: 'center', textDecoration: 'none', color: 'inherit' }}>
+            <a href="mailto:sngr.milan@gmail.com" target="_blank" rel="noopener noreferrer" style={{ display: 'flex', alignItems: 'center', textDecoration: 'none', color: 'inherit' }}>
               <LuMail className={style.Logo}/>
-                milan.sangare.info@gmail.com
+                sngr.milan@gmail.com
               </a>
             </li>
             <li className={style.contactItem}>
