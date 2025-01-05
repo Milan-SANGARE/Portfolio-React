@@ -1,6 +1,6 @@
 @import "../../vars.css";
 
-.container {
+.card {
   display: flex;
   
   flex-direction: column;
@@ -11,6 +11,11 @@
   max-width: 345px;
   height: 800px; /* Fixe la longueur à 300 pixels */
   max-height: 100%; 
+}
+
+.card:hover {
+  box-shadow: 0px 0px 20px 1px var(--color-hover);
+  border: 0px solid rgba(255, 255, 255, 0.454);
 }
 
 .img{
@@ -24,7 +29,7 @@
 
 .description {
   margin-top: 6px;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 400;
 }
 
@@ -39,9 +44,9 @@
 }
 
 .skill {
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 400;
-  border-radius: 100px;
+  border-radius: 10px;
   background: var(--color-tech);
   padding: 2px 22px;
 }
@@ -55,10 +60,11 @@
 
 .link {
   text-decoration: none;
+  border: 3px var(--color-text);
   color: var(--color-text);
   font-size: 30px;
   font-weight: 600;
-  border-radius: 100px;
+  border-radius: 10px;
   background-image: linear-gradient(
     90deg,
     rgba(165, 215, 232, 0.42) 0%,
@@ -75,9 +81,44 @@
   }
   
   .icone {
-    color: black; 
-    font-size: xxx-large 
-}
+    color: #ffffff40; 
+    font-size: xxx-large;
+    transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
+  }
 .icone:hover{
-  color: #FFD166;
+  color: var(--color-hover);
+  border-radius: 5px;
+  
+  box-shadow: 0 0 1px 5px var(--color-hover);
+  
 }
+
+
+.animatedbutton {
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+  padding: 12px 24px;
+  border: none;
+  font-size: 16px;
+  background-color: inherit;
+  border-radius: 10px;
+  font-weight: 600;
+  color: #ffffff40;
+  box-shadow: 0 0 0 2px #ffffff20;
+  cursor: pointer;
+  transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
+}
+
+
+.animatedbutton:hover {
+  box-shadow: 0 0 1px 5px var(--color-hover);
+  color: #ffffff;
+}
+
+.animatedbutton:active {
+  scale: 0.95;
+}
+
+
+
